@@ -1,7 +1,3 @@
-# gc-polyscope-project-template
-A template project to get started with [geometry-central](http://geometry-central.net/) and [Polyscope](http://polyscope.run/).
-
-
 ### Get the code
 Clone the project 
 ```
@@ -27,10 +23,6 @@ Install CMake, and use either the CMake GUI or the command line interface (as on
 ```
 ./bin/gc_project /path/to/a/mesh
 ```
-
-### Edit the code
-
-Modify the main file `src/main.cpp` to start implementing your own algorithms. `CMakeLists.txt` contains a few comments for adding additional files.  
 
 ## Interactive interpreter
 
