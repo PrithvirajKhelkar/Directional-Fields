@@ -1,14 +1,14 @@
 ### Get the code
 Clone the project 
 ```
-git clone --recursive https://github.com/nmwsharp/gc-polyscope-project-template.git
+git clone --recursive git@github.com:PrithvirajKhelkar/Directional-Fields.git
 ```
 
 ### Build the code
 
 **Unix-like machines**: configure (with cmake) and compile
 ```
-cd gc-polyscope-project-template
+cd Directional-Fields
 mkdir build
 cd build
 cmake ..
